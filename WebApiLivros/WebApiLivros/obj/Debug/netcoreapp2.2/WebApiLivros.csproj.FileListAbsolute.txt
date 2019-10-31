@@ -1,0 +1,14 @@
+I:\Poo\WebApiLivros\WebApiLivros\bin\Debug\netcoreapp2.2\WebApiLivros.deps.json
+I:\Poo\WebApiLivros\WebApiLivros\bin\Debug\netcoreapp2.2\WebApiLivros.runtimeconfig.json
+I:\Poo\WebApiLivros\WebApiLivros\bin\Debug\netcoreapp2.2\WebApiLivros.runtimeconfig.dev.json
+I:\Poo\WebApiLivros\WebApiLivros\bin\Debug\netcoreapp2.2\WebApiLivros.dll
+I:\Poo\WebApiLivros\WebApiLivros\obj\Debug\netcoreapp2.2\WebApiLivros.csprojAssemblyReference.cache
+I:\Poo\WebApiLivros\WebApiLivros\obj\Debug\netcoreapp2.2\WebApiLivros.csproj.CoreCompileInputs.cache
+I:\Poo\WebApiLivros\WebApiLivros\obj\Debug\netcoreapp2.2\WebApiLivros.RazorAssemblyInfo.cache
+I:\Poo\WebApiLivros\WebApiLivros\obj\Debug\netcoreapp2.2\WebApiLivros.RazorAssemblyInfo.cs
+I:\Poo\WebApiLivros\WebApiLivros\obj\Debug\netcoreapp2.2\WebApiLivros.AssemblyInfoInputs.cache
+I:\Poo\WebApiLivros\WebApiLivros\obj\Debug\netcoreapp2.2\WebApiLivros.AssemblyInfo.cs
+I:\Poo\WebApiLivros\WebApiLivros\obj\Debug\netcoreapp2.2\WebApiLivros.RazorTargetAssemblyInfo.cache
+I:\Poo\WebApiLivros\WebApiLivros\bin\Debug\netcoreapp2.2\WebApiLivros.pdb
+I:\Poo\WebApiLivros\WebApiLivros\obj\Debug\netcoreapp2.2\WebApiLivros.dll
+I:\Poo\WebApiLivros\WebApiLivros\obj\Debug\netcoreapp2.2\WebApiLivros.pdb
